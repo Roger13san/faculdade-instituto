@@ -10,7 +10,8 @@ List<Motorista> habilitados = motoristas.stream()
 
 ## Relato do aprendizado
 
-Aprendi que com as novas versões da linguagem, facilita criar um fluxo mais claro e direto. Antes, o código era muito mais "complexo" e maior, mas com Java moderno,fica mais legível. Também entendi que o Optional ajuda a evitar verificações manuais de null, deixando o código mais seguro e fácil de manter.
+Aprendi que o Java moderno ajuda bastante a deixar o código mais simples de entender. Antes, era necessário criar uma lista separada, percorrer os motoristas manualmente e depois ordenar com um código maior. Com Stream, da pra ver o processo como uma sequência de passos: filtrar quem tem CNH ativa e depois ordenar pelo tempo de empresa. Também entendi melhor como o Optional pode ajudar a evitar problemas com valores nulos, mostrando que é muito importante estar antenado com as novas versões e atualizações das linguagens
+
 
 ## Prompt de desafio
 
